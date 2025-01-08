@@ -23,7 +23,14 @@
 - [Dataverse developer documentation](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/)
 
 
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/power-apps-yaml
+
+https://learn.microsoft.com/en-us/power-apps/webinars
+
+
 https://philcole.org/post/powerfx-in-cloud-flows/
+https://philcole.org/tags/power-fx/
+https://philcole.org/post/powerfx-primes/
 
 - []()
 - []()

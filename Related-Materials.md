@@ -15,10 +15,15 @@
 
 ## Power Fx via Custom API
 
-- [](https://philcole.org/post/powerfx-customapi/)
+- [powerfx-customapi](https://philcole.org/post/powerfx-customapi/)
+- [Build and package plug-in code](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/build-and-package)
+
+## Dataverse Dev 
+
+- [Dataverse developer documentation](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/)
 
 
-
+https://philcole.org/post/powerfx-in-cloud-flows/
 
 - []()
 - []()
